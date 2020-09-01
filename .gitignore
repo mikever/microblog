@@ -1,0 +1,13 @@
+# Note: Generally, keep both Pipfile and Pipfile.lock in version control
+
+# Ignore Mac system files
+.DS_store
+
+# Ignore pyenv directory
+.python-version
+
+# Ignore node_modules filder
+node_modules
+
+# Ignore files related to API keys
+.env

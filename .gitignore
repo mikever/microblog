@@ -6,6 +6,9 @@
 # Ignore pyenv directory
 .python-version
 
+# Ignore .pyc files
+*.pyc
+
 # Ignore node_modules filder
 node_modules
 
